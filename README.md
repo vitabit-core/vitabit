@@ -1,3 +1,6 @@
+AINDA NAO ESTA PRONTO !!!!!!!!!!!! <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
 VitaBit
 VitaBit é uma criptomoeda desenvolvida em Rust, com foco em segurança, transparência e escalabilidade. O projeto tem como objetivo ser uma moeda real, funcional no cotidiano, tanto em meios digitais quanto físicos, oferecendo uma alternativa moderna e descentralizada ao dinheiro tradicional.
 
