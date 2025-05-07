@@ -4,6 +4,10 @@ VitaBit é uma criptomoeda desenvolvida em Rust, com foco em segurança, transpa
 ✨ Visão
 VitaBit não é apenas um experimento técnico — é uma iniciativa séria para criar uma criptomoeda utilizável, confiável e eficiente. Projetada desde o início para suportar o crescimento e adoção no mundo real, sua arquitetura modular e segura permite evoluir com o tempo.
 
+💀 Regra dos 100 anos para carteiras mortas – explicação
+Definição:
+A regra de 100 anos estabelece que, se uma carteira de criptomoedas não realiza nenhuma movimentação por um período de 100 anos, seus fundos poderão ser considerados abandonados ou mortos, e poderão ser redistribuídos, reutilizados ou queimados, dependendo das regras do protocolo.
+
 🔧 Tecnologias
 Rust – Linguagem segura e de alta performance para sistemas críticos.
 
