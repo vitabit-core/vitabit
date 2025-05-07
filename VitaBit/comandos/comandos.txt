@@ -1,0 +1,10 @@
+Esses comandos vão te permitir criar, listar e carregar carteiras criptografadas usando senha
+
+cargo run --bin vitabit-cli create-wallet (minha_carteira)
+criar carteira.
+
+cargo run --bin vitabit-cli list-wallets
+listar carteiras disponivel
+
+cargo run --bin vitabit-cli load-wallet (minha_carteira)
+carrega carteira
